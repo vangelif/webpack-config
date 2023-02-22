@@ -19,7 +19,7 @@
 - [🙏 Acknowledgements](#acknowledgements)
 - [📝 License](#license)
 
-# 📖 [MOBILE MENU] <a name="about-project"></a>
+# 📖 [WEBPACK SETUP] <a name="about-project"></a>
 
 **WEBPACK SETUP** is a project that we are applying our knowledge on Javascript to showcase how webpack can simplify our future projects. 
 
